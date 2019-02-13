@@ -1,2 +1,0 @@
-# basic
-my basic program
